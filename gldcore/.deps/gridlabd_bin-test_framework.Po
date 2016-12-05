@@ -1,0 +1,4 @@
+gldcore/gridlabd_bin-test_framework.o: gldcore/test_framework.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
